@@ -9,3 +9,5 @@ Pueden hacer lo que quieran...
 ### Actualizado desde github 
 
 Esto lo hice en github
+
+### Estos cambios son nuevos
